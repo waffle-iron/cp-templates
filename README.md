@@ -9,7 +9,7 @@ _Huynh Van Duy_
 - `BIT.cpp`: Binary Index Tree
 - `bitwise.cpp`: Bitwise tricks
 - `CAT.cpp`: Catalan number
-- `CD.cpp`: Centroid composition
+- `CD.cpp`: Centroid decomposition
 - `CONVEX.cpp`: Convexhull
 - `CPDAG.cpp`: Dynamic programing DAG
 - `datastruct.cpp`: Some important data structure
