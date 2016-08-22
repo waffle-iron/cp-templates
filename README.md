@@ -1,11 +1,6 @@
 ## ***Template for competitive programing***
 _Huynh Van Duy_
 
-![cp images] (http://cpbook.net/img/cp-logo.png)
-![cf images](http://wunderfund.io/static/codeforces_logo.png)
-![tc images] (https://apps.topcoder.com/i/reskin/logo.png)
-![acmicpc images] (http://www.acmicpc-latam.org/logo_acm.jpg)
-
 > C++
 >
 - `bigint.cpp`: Big number
@@ -47,3 +42,10 @@ _Huynh Van Duy_
 - `TOPO.cpp`: Topology sort
 - `TRIE.h`: Trie Tree
 - `ZFUNC.h`: Z - function
+
+![cp images] (http://cpbook.net/img/cp-logo.png)
+![cf images](http://wunderfund.io/static/codeforces_logo.png)
+![tc images] (https://apps.topcoder.com/i/reskin/logo.png)
+![acmicpc images] (http://www.acmicpc-latam.org/logo_acm.jpg)
+![hr images] (https://aadityapurani.files.wordpress.com/2015/09/hackerrank-logo.jpg)
+![fbhc images] (https://webtoolfeed.files.wordpress.com/2012/03/facebok-hackathon.jpg)
