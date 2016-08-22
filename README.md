@@ -1,7 +1,7 @@
 ## ***Templates for competitive programing***
 _Huynh Van Duy_
 
-![Gitter Chat] (https://gitter.im/cp-templates/Lobby)
+[![Join the chat at https://gitter.im/cp-templates/Lobby](https://badges.gitter.im/cp-templates/Lobby.svg)](https://gitter.im/cp-templates/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > C++
 >
@@ -43,6 +43,7 @@ _Huynh Van Duy_
 - `time.cpp`: Some of time
 - `TOPO.cpp`: Topology sort
 - `TRIE.h`: Trie Tree
+- `TWOSAT`: 2-SAT problems
 - `ZFUNC.h`: Z - function
 
 ![cp images] (http://cpbook.net/img/cp-logo.png)
