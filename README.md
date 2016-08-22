@@ -2,6 +2,9 @@
 _Huynh Van Duy_
 
 ![cp images] (http://cpbook.net/img/cp-logo.png)
+![cf images](http://wunderfund.io/static/codeforces_logo.png)
+![tc images] (https://apps.topcoder.com/i/reskin/logo.png)
+![acmicpc images] (http://www.acmicpc-latam.org/logo_acm.jpg)
 
 > C++
 >
