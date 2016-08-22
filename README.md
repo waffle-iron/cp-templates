@@ -1,4 +1,4 @@
-#### __ Template for competitive programing __
+#### ** Template for competitive programing **
 _Huynh Van Duy_
 > C++
 >
