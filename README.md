@@ -1,5 +1,8 @@
 ## ***Template for competitive programing***
 _Huynh Van Duy_
+
+![cp images] (http://cpbook.net/img/cp-logo.png)
+
 > C++
 >
 - `bigint.cpp`: Big number
