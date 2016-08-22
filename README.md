@@ -1,6 +1,8 @@
 ## ***Templates for competitive programing***
 _Huynh Van Duy_
 
+![Gitter Chat] (https://gitter.im/cp-templates/Lobby)
+
 > C++
 >
 - `bigint.cpp`: Big number
