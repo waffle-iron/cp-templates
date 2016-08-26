@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hdi-superuser/cp-templates.png?label=ready&title=Ready)](https://waffle.io/hdi-superuser/cp-templates)
 ## ***Templates for competitive programing***
 _Huynh Van Duy_
 
