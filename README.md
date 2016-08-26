@@ -2,8 +2,7 @@
 _Huynh Van Duy_
 
 [![Join the chat at https://gitter.im/cp-templates/Lobby](https://badges.gitter.im/cp-templates/Lobby.svg)](https://gitter.im/cp-templates/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![https://travis-ci.org/hdi-superuser/cp-templates.svg?branch=master]]
-
+[![Build Status](https://travis-ci.org/hdi-superuser/cp-templates.svg?branch=master)](https://travis-ci.org/hdi-superuser/cp-templates)
 > C++
 >
 - `bigint.cpp`: Big number
